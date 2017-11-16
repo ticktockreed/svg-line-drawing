@@ -1,4 +1,4 @@
-Webpack 3 Boilerplate
+SVG POINT ON LINE POC
 ===========
 
 [![Dependency Status](https://david-dm.org/cvgellhorn/webpack-boilerplate.svg)](https://david-dm.org/cvgellhorn/webpack-boilerplate) 
