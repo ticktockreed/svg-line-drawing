@@ -26,4 +26,15 @@ function splitPathToPoints(path) {
     return pathPoints;
 }
 
-console.log(splitPathToPoints(lineArtIcon));
+let pathPoints = splitPathToPoints(lineArtIcon);
+
+
+
+// given the current x coordinate find the closest path point.
+_.find(pathPoints, 10, function(num, a) {
+    console.log(num);
+    console.log(a);
+    return num;
+});
+
+// console.log(y);
